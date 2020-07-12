@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BMI Calculator - DiWeb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-12 10:59+0000\n"
+"PO-Revision-Date: 2020-07-12 11:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: widget.php:7
+msgid "ძაალიან გამხდარი"
+msgstr "Underweight"
+
+#: widget.php:8
+msgid "ნორმალური წონა"
+msgstr "normal weight"
+
+#: widget.php:9
+msgid "ჭარბი წონა"
+msgstr "Overweight "
+
+#: widget.php:10
+msgid "მორბიდული სიმსუქნე ტიპი 1."
+msgstr "Obesity Type 1"
+
+#: widget.php:11
+msgid "მორბიდული სიმსუქნე ტიპი 2."
+msgstr "Morbid Obesity Type 2."
+
+#: widget.php:12
+msgid "მორბიდული სიმსუქნე ტიპი 3."
+msgstr "Morbid obesity type 3."
+
+#: widget.php:13
+msgid "სუპერჭარბწონიანობა"
+msgstr "Super Obese "
+
+#: widget.php:15
+msgid ""
+"აუცილებელია ვიზიტი ენდოკრინოლოგთან და მის მიერ დანიშნული სწორი კვების "
+"რეჟიმის დაცვა."
+msgstr ""
+"It is necessary to visit an endocrinologist  in order to have  proper "
+"nutrition regime. "
+
+#: widget.php:16
+msgid ""
+"თქვენი  წონა ნორმალურია, განაგრძეთ არსებული კვების რეჟიმი და ცხოვრების სტილი!"
+msgstr ""
+"Your weight is normal, continue your existing nutrition regime  and "
+"lifestyle!"
+
+#: widget.php:17
+msgid ""
+"აუცილებელია ვიზიტი ენდოკრინლოგთან და ფსიქოლოგთან და მათ მიერ დანიშნული სწორი "
+"კვების რეჟიმის და რეკომენდაციების დაცვა"
+msgstr ""
+"It is necessary to visit an endocrinologist and a psychologist and follow "
+"proper diet and  their recommendations."
+
+#: widget.php:18
+msgid ""
+"აუცილებელია ვიზიტი ენდოკრინოლოგთან, ფსიქოლოგთან, კარდიოლოგთან და თერაპევტთან,"
+" იმ შემთხვევაში თუ პაციენტს აღენიშნება რომელიმე ისეთი თანხმლები დაავადება "
+"როგორიცაა შაქრიანი დიაბეტი, არტერიული ჰიპერტონია, დისლიპიდემია, გულის "
+"იშემიური დაავადება, თავის ტვინის სისხლის მიმოქცევის მოშლის ნიშნები, პიკვიკის "
+"სინდრომი, ძვალსახსროვანი სისტემის დეგენრაციული პათოლოგიები, ინიშნება "
+"კონსერვატიული რეაბილიტაციური თერაპია მინიმუმ 6 თვის განმავლობაში და მისი "
+"უეფექტობის შემთხვევაში შესაძლებელია დაისვას საკითხი ბარიატრიული ოპერაციის "
+"შესახებ"
+msgstr ""
+"It is necessary to visit an surgeon, endocrinologist, psychologist, "
+"cardiologist and a therapist, if the patient has any of these diseases  such "
+"as:  diabetes, arterial hypertension, dyslipidemia,Ischemic heart disease, "
+"signs of cerebral circulatory failure,  and systemic  degenerative "
+"pathologies it is indicated Bariatric surgery."
+
+#: widget.php:19
+msgid ""
+"ნაჩვენებია მულტიდისციპლინარული გუნდის მიერ (ფსიქოლოგი, ენდოკრინოლოგი, "
+"კარდიოლოგი, თერაპევტი, ბარიატრიული ქირურგი) პაციენტის მდგომარეობის შეფასება "
+"და ბარიატრიული ქირურგიული მკურნალობის საკითხის გადაწყვეტა სათანადო "
+"მომზადების შემდგომ."
+msgstr ""
+"It is necessary to visit an surgeon, endocrinologist, psychologist, "
+"cardiologist and a therapist, if the patient has any of these diseases  such "
+"as:  diabetes, arterial hypertension, dyslipidemia,Ischemic heart disease, "
+"signs of cerebral circulatory failure,  and systemic  degenerative "
+"pathologies it is indicated Bariatric surgery."
+
+#: widget.php:22
+msgid "შეიყვანეთ სწორი ინფორმაცია"
+msgstr "Enter the correct information"
+
+#: widget.php:35
+msgid "სქესი"
+msgstr "Sex"
+
+#: widget.php:39
+msgid "მამრობითი"
+msgstr "Male"
+
+#: widget.php:45
+msgid "მდედრობითი"
+msgstr "Female"
+
+#: widget.php:51
+msgid "წონა(კგ)"
+msgstr "Weight(KG)"
+
+#: widget.php:56
+msgid "სიმაღლე"
+msgstr "Height"
+
+#: widget.php:60
+msgid "გამოთვლა"
+msgstr "calculate"
+
+#: widget.php:69
+msgid "მასის ინდექსი"
+msgstr "Mass Index"
+
+#: widget.php:71
+msgid "კგ/მ"
+msgstr "Kg/m"
+
+#. Name of the plugin
+msgid "BMI Calculator - DiWeb"
+msgstr ""
+
+#. Description of the plugin
+msgid "BMI Calculator"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/kvachakhia/bmi-calculator-wordpress-plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dimitri Kvachakhia"
+msgstr ""

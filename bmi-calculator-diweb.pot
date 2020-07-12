@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BMI Calculator - DiWeb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-12 10:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: widget.php:7
+msgid "ძაალიან გამხდარი"
+msgstr ""
+
+#: widget.php:8
+msgid "ნორმალური წონა"
+msgstr ""
+
+#: widget.php:9
+msgid "ჭარბი წონა"
+msgstr ""
+
+#: widget.php:10
+msgid "მორბიდული სიმსუქნე ტიპი 1."
+msgstr ""
+
+#: widget.php:11
+msgid "მორბიდული სიმსუქნე ტიპი 2."
+msgstr ""
+
+#: widget.php:12
+msgid "მორბიდული სიმსუქნე ტიპი 3."
+msgstr ""
+
+#: widget.php:13
+msgid "სუპერჭარბწონიანობა"
+msgstr ""
+
+#: widget.php:15
+msgid ""
+"აუცილებელია ვიზიტი ენდოკრინოლოგთან და მის მიერ დანიშნული სწორი კვების "
+"რეჟიმის დაცვა."
+msgstr ""
+
+#: widget.php:16
+msgid ""
+"თქვენი  წონა ნორმალურია, განაგრძეთ არსებული კვების რეჟიმი და ცხოვრების სტილი!"
+msgstr ""
+
+#: widget.php:17
+msgid ""
+"აუცილებელია ვიზიტი ენდოკრინლოგთან და ფსიქოლოგთან და მათ მიერ დანიშნული სწორი "
+"კვების რეჟიმის და რეკომენდაციების დაცვა"
+msgstr ""
+
+#: widget.php:18
+msgid ""
+"აუცილებელია ვიზიტი ენდოკრინოლოგთან, ფსიქოლოგთან, კარდიოლოგთან და თერაპევტთან,"
+" იმ შემთხვევაში თუ პაციენტს აღენიშნება რომელიმე ისეთი თანხმლები დაავადება "
+"როგორიცაა შაქრიანი დიაბეტი, არტერიული ჰიპერტონია, დისლიპიდემია, გულის "
+"იშემიური დაავადება, თავის ტვინის სისხლის მიმოქცევის მოშლის ნიშნები, პიკვიკის "
+"სინდრომი, ძვალსახსროვანი სისტემის დეგენრაციული პათოლოგიები, ინიშნება "
+"კონსერვატიული რეაბილიტაციური თერაპია მინიმუმ 6 თვის განმავლობაში და მისი "
+"უეფექტობის შემთხვევაში შესაძლებელია დაისვას საკითხი ბარიატრიული ოპერაციის "
+"შესახებ"
+msgstr ""
+
+#: widget.php:19
+msgid ""
+"ნაჩვენებია მულტიდისციპლინარული გუნდის მიერ (ფსიქოლოგი, ენდოკრინოლოგი, "
+"კარდიოლოგი, თერაპევტი, ბარიატრიული ქირურგი) პაციენტის მდგომარეობის შეფასება "
+"და ბარიატრიული ქირურგიული მკურნალობის საკითხის გადაწყვეტა სათანადო "
+"მომზადების შემდგომ."
+msgstr ""
+
+#: widget.php:22
+msgid "შეიყვანეთ სწორი ინფორმაცია"
+msgstr ""
+
+#: widget.php:35
+msgid "სქესი"
+msgstr ""
+
+#: widget.php:39
+msgid "მამრობითი"
+msgstr ""
+
+#: widget.php:45
+msgid "მდედრობითი"
+msgstr ""
+
+#: widget.php:51
+msgid "წონა(კგ)"
+msgstr ""
+
+#: widget.php:56
+msgid "სიმაღლე"
+msgstr ""
+
+#: widget.php:60
+msgid "გამოთვლა"
+msgstr ""
+
+#: widget.php:69
+msgid "მასის ინდექსი"
+msgstr ""
+
+#: widget.php:71
+msgid "კგ/მ"
+msgstr ""
+
+#. Name of the plugin
+msgid "BMI Calculator - DiWeb"
+msgstr ""
+
+#. Description of the plugin
+msgid "BMI Calculator"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/kvachakhia/bmi-calculator-wordpress-plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dimitri Kvachakhia"
+msgstr ""
